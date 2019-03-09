@@ -1,0 +1,36 @@
+[{
+        "title": "Forms",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "url": "forms"
+    },
+    {
+        "title": "Search & Seizures",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "url": "search_and_seizures"
+
+    },
+    {
+        "title": "Case Laws",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "url": "case_laws"
+
+    },
+    {
+        "title": "Training",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "url": "training"
+
+    },
+    {
+        "title": "Books & Manuals",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "url": "books_and_manual"
+
+    },
+    {
+        "title": "FAQ's",
+        "desc": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "url": "faqs"
+
+    }
+]

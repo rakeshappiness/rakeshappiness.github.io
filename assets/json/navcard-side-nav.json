@@ -1,0 +1,79 @@
+[{
+        "page": "forms",
+        "list": [{
+            "title": "Medical",
+            "url": ""
+        }, {
+            "title": "Leave Travel Allowance",
+            "url": ""
+        }, {
+            "title": "GPF",
+            "url": ""
+        }, {
+            "title": "Rent Allowance",
+            "url": ""
+        }]
+    }, {
+        "page": "search_and_seizures",
+        "list": [{
+            "title": "Pre-Search Tools",
+            "url": ""
+        }, {
+            "title": "Search Forms",
+            "url": ""
+        }, {
+            "title": "Post Search Forms",
+            "url": ""
+        }]
+    },
+    {
+        "page": "training",
+        "list": [{
+            "title": "Training Materials",
+            "url": ""
+        }, {
+            "title": "Presentations",
+            "url": ""
+        }]
+    },
+    {
+        "page": "books_and_manual",
+        "list": [{
+            "title": "Investigation Manuals",
+            "url": ""
+        }, {
+            "title": "Black - Money",
+            "url": ""
+        }, {
+            "title": "Benami Manuals",
+            "url": ""
+        }, {
+            "title": "Relevant Books",
+            "url": ""
+        }]
+    },
+    {
+        "page": "faqs",
+        "list": [{
+                "title": "General",
+                "url": ""
+            }, {
+                "title": "Conducting Survey",
+                "url": ""
+            }, {
+                "title": "Capital Gains",
+                "url": ""
+            }, {
+                "title": "Computation of Tax",
+                "url": ""
+            },
+            {
+                "title": "TDS",
+                "url": ""
+            }, {
+                "title": "Tax Audit",
+                "url": ""
+            }
+        ]
+    }
+]
